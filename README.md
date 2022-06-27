@@ -25,4 +25,11 @@
 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python Code](./coinChange.py) |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python Code](./longestIncreasingSubsequence.py) |
 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python Code](./longestCommonSubsequence.py) |
+| [Word Break](https://leetcode.com/problems/word-break/) | [Python Code](./wordBreak.py) |
+| [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | [Python Code](./combinationSum.py) |
+| [House Robber](https://leetcode.com/problems/house-robber/) | [Python Code](./houseRobber.py) |
+| [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python Code](./houseRobberII.py) |
+| [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python Code](./decodeWays.py) |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python Code](./uniquePaths.py) |
+| []() | [Python Code]() |
 | []() | [Python Code]() |
