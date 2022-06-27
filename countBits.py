@@ -12,7 +12,7 @@ Explanation:
 """
 
 def countBits_1(n:int)->list[int]:
-    "bitwise solution"
+    """bitwise solution"""
     if n==0:
         return [0]
     dp = [0,1]
