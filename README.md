@@ -20,5 +20,9 @@
 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python Code](./missingNumber.py) |
 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python Code](./reverseBits.py) |
 | Dynamic Programming |
-|||
-|||
+| [O/1 Knapsack](http://www.geeksforgeeks.org/knapsack-problem/) | [Python Code](./01Knapsack.py) |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python Code](./climbStairs.py) |
+| [Coin Change](https://leetcode.com/problems/coin-change/) | [Python Code](./coinChange.py) |
+| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python Code](./longestIncreasingSubsequence.py) |
+| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python Code](./longestCommonSubsequence.py) |
+| []() | [Python Code]() |
