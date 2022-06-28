@@ -31,5 +31,11 @@
 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python Code](./houseRobberII.py) |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python Code](./decodeWays.py) |
 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python Code](./uniquePaths.py) |
-| []() | [Python Code]() |
-| []() | [Python Code]() |
+| [Jump Game](https://leetcode.com/problems/jump-game/) | [Python Code](./jumpGame.py) |
+| __Graphs__ |
+| [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python Code](./cloneGraph.py) |
+| [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python Code](./courseSchedule.py) |
+| Alien Dictionary⭐ | [Python Code](./alienDictonary.py) |
+| [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Python Code |
+| [Number Islands](https://leetcode.com/problems/number-of-islands/) | [Python Code](./numberIslands.py) |
+
