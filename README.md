@@ -1,7 +1,7 @@
 # Blind 75
 
 | Question | code |
-| ------ | ------ |
+| :------: | :------: |
 | Array |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python Code](./twoSum.py)  |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python Code](./buyAndSellStocks.py) |
@@ -35,7 +35,8 @@
 | __Graphs__ |
 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python Code](./cloneGraph.py) |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python Code](./courseSchedule.py) |
-| Alien Dictionary⭐ | [Python Code](./alienDictonary.py) |
+| [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)⭐ | [Python Code](./alienDictonary.py) |
 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Python Code |
 | [Number Islands](https://leetcode.com/problems/number-of-islands/) | [Python Code](./numberIslands.py) |
-
+| [Graph Valid Trees](https://leetcode.com/problems/graph-valid-tree/)⭐ [Alt](https://www.lintcode.com/problem/178/) | [Python Code](./graphValidTree.py) |
+| [Number of connected components in a undirected graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)⭐ [Alt](https://practice.geeksforgeeks.org/problems/number-of-provinces/1/) | [Python Code](./noOfConnectedCompInUndirectedGph.py) |
