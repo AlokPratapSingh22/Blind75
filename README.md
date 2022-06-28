@@ -12,6 +12,7 @@
 | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python Code](./findMinInRotatedArray.py) |
 | [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python Code](./searchInRotatedArray.py) |
 | [3 Sum](https://leetcode.com/problems/3sum/) | [Python Code](./threeSum.py) |
+| [Longest Consecutive Subsequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python Code](./longestConsecutiveSubsequence.py) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python Code](./containerWithMostWater.py) |
 |   Binary  |
 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python Code](./sumOfTwoNumbers.py) |
