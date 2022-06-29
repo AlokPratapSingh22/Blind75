@@ -41,3 +41,9 @@
 | [Number Islands](https://leetcode.com/problems/number-of-islands/) | [Python Code](./numberIslands.py) |
 | [Graph Valid Trees](https://leetcode.com/problems/graph-valid-tree/)⭐ [Alt](https://www.lintcode.com/problem/178/) | [Python Code](./graphValidTree.py) |
 | [Number of connected components in a undirected graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)⭐ [Alt](https://practice.geeksforgeeks.org/problems/number-of-provinces/1/) | [Python Code](./noOfConnectedCompInUndirectedGph.py) |
+| __Intervals__ |
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python Code](./mergeIntervals.py) |
+| [Insert Intervals](https://leetcode.com/problems/insert-interval/) | [Python Code](./insertIntervals.py) |
+| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)⭐ [_Alt_](https://www.lintcode.com/problem/920/) | [Python Code](./meetingRooms.py) |
+| [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/)⭐ [_Alt_](https://www.lintcode.com/problem/919/) | [Python Code]() |
+| [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python Code](./eraseOverlapingItervals.py) |
