@@ -47,3 +47,10 @@
 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)⭐ [_Alt_](https://www.lintcode.com/problem/920/) | [Python Code](./meetingRooms.py) |
 | [Meeting Rooms 2](https://leetcode.com/problems/meeting-rooms-ii/)⭐ [_Alt_](https://www.lintcode.com/problem/919/) | [Python Code]() |
 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python Code](./eraseOverlapingItervals.py) |
+| __Linked Lists__ |
+| [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python Code](./reverseLL.py) |
+| [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) | [Python Code](./detectCycleLL.py) |
+| [Merge 2 Sorted Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python Code](./mergeLL.py) |
+| [Merge k Sorted Linked Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python Code](./mergeKLL.py) |
+| [Remove nth node from end](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python Code](./removeNthFromEnd.py) |
+| [Reorder Linked List](https://leetcode.com/problems/reorder-list/) | [Python Code](./reorderLL.py) |
