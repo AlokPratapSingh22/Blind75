@@ -12,6 +12,22 @@ Example 1:
 Input: nums = [1,2,3,4]
 Output: [24,12,8,6]
 """
+# USING PREFIX SUM
+def productExceptSelf(self, nums: List[int]) -> List[int]:        
+       product = [0]*len(nums)
+       pref = 1
+
+       for i, n in enumerate(nums):        
+           product[i] = pref
+           pref *= n
+
+
+       pref = 1
+       for j in range(len(nums)-1, -1, -1):
+           product[j] *= pref
+           pref *= nums[j]
+
+       return product
 
 def productArray(nums:list[int]):
     total_product = 1
@@ -38,3 +54,5 @@ def productArray(nums:list[int]):
         else:
             prod.append(0)
     return prod
+   
+ 
